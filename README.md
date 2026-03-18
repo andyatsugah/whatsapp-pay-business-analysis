@@ -1,5 +1,6 @@
 # whatsapp-pay-business-analysis
 Launching a seamless peer-to-peer payment feature as part of their existing WhatsApp app to feature.
+
 # WhatsApp Pay Business Analysis
 
 ## Overview
@@ -53,6 +54,5 @@ The solution reduces friction in digital payments, increases user engagement, an
 - `whatsapp-pay-business-requirements-document.pdf`
 - `SWOT analysis.png`
 - `stakeholder matrix'
-- `stakeholder matrix.png'
 - `use case diagram`
 - `risk register.xlsx`
