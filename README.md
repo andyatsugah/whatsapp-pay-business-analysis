@@ -52,6 +52,6 @@ The solution reduces friction in digital payments, increases user engagement, an
 ## Files
 - `whatsapp-pay-business-requirements-document.pdf`
 - `SWOT analysis.png`
-- `stakeholder matrix'
+- `stakeholder matrix.png'
 - `use case diagram`
 - `risk register.xlsx`
